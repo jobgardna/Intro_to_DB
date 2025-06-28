@@ -1,4 +1,3 @@
-USE alx_book_store;
 
 CREATE TABLE IF NOT EXISTS AUTHORS (
     author_id INT AUTO_INCREMENT PRIMARY KEY,
